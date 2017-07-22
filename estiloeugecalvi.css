@@ -1,0 +1,27 @@
+.container-general {
+ padding: 0;
+ margin: 0;
+}
+
+.row {
+ margin: 0;
+ padding: 0;
+}
+.home{
+background: url(../imgs/fondo3.jpeg);
+background-size: cover;
+text-align: center;
+}
+.barra{
+opacity:0,3; 
+}
+.nombre{
+padding-top: 50%;
+padding-bottom: 50%;
+}
+.h1{
+margin-top: 20px;
+margin-bottom: 25px;
+color: white;
+}
+
